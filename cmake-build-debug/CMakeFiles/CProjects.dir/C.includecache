@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/leonshi/Desktop/workspace/study/CBasicProjects/CBasicStrcut.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
